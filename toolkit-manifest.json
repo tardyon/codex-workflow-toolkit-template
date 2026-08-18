@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "toolkit_version": "0.1.0",
+  "policy": {
+    "source": "portable/AGENTS.template.md"
+  },
+  "skills": [
+    {
+      "name": "maintain-codex-toolkit",
+      "path": "skills/maintain-codex-toolkit"
+    },
+    {
+      "name": "reliable-browser-publishing",
+      "path": "skills/reliable-browser-publishing"
+    },
+    {
+      "name": "suggest-project-versioning",
+      "path": "skills/suggest-project-versioning"
+    }
+  ]
+}
